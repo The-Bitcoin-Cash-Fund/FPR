@@ -32,3 +32,19 @@ The FPR process is based on the BIP process.
 |}
 
 <!-- IMPORTANT!  See the instructions at the top of this page, do NOT JUST add FPRs here! -->
+
+
+## BCF FPR Requirements
+
+- A completed FPR must be included as to a project's github repo as the first commit/PR as an md file. This will help guide the project, and anyone who joins it can quickly find out the most important information.
+- Any print media the BCF funds with either dimension over 40mm must have the BCF round logo on it somewhere.
+- Any print media the BCF funds with either dimension over 100mm must have the logos of our Tier 3 sponsors on it somewhere.
+- Any video projects the BCF funds must include the BCF Bitcoin Cash animation at the beginning or end of the video.
+- Any video projects the BCF funds must include our tier 2 and tier 3 sponsors at the end of the video.
+- The BCF reserves the right to not fund any project at it's own discretion.
+
+## What isn't the Bitcoin Cash Fund for.
+
+- Funds will not be given to companies just to further their business. Companies are welcome to submit an FPR as long as it is for a specific project that attempts to directly increase awareness and adoption of Bitcoin Cash.
+- Funds will not be paid to individuals or businesses simply because they want money.
+- Funds will not be paid for BCH protocol development (at this time).
