@@ -1,2 +1,0 @@
-# FPR
-Global FPR repository

@@ -1,0 +1,34 @@
+People wishing to submit FPRs should first approach a BCF board member to discuss of their ideas. After initial discussion, they will be issued a FPR number that they will use all along of their project. After preparation of their FPRs, they will propose their FPR for acceptance by making a pull request to this repository.
+
+Having a FPR listed here does not make it a formally accepted until its status becomes Final or Active.
+
+The FPR process is based on the BIP process.
+
+{| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
+!Number
+!Title
+!Owner
+!Status
+|- style="background-color: #ffcfcf"
+| 1
+| FPR process and BCF expenses
+| The Bitcoin Cash Fund
+| Active
+|- style="background-color: #cfffcf"
+| 2
+| Reserved
+| 
+| Reserved
+|- style="background-color: #ffcfcf"
+| 3
+| Reserved
+| 
+| Reserved
+|- style="background-color: #cfffcf"
+| 4
+| Reserved
+| 
+| Reserved
+|}
+
+<!-- IMPORTANT!  See the instructions at the top of this page, do NOT JUST add FPRs here! -->
