@@ -4,6 +4,8 @@ Having a FPR listed here does not make it a formally accepted until its status b
 
 The FPR process is based on the BIP process.
 
+The template for the FPR proposal can be found at https://github.com/The-Bitcoin-Cash-Fund/Docs/blob/master/BCF-Funding-Proposal-Request-Template.md.
+
 {| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
 !Number
 !Title
